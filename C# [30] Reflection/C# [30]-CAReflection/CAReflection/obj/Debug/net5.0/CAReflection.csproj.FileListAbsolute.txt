@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAReflection\CAReflection\bin\Debug\net5.0\CAReflection.exe
+C:\Users\DELL\source\repos\CAReflection\CAReflection\bin\Debug\net5.0\CAReflection.deps.json
+C:\Users\DELL\source\repos\CAReflection\CAReflection\bin\Debug\net5.0\CAReflection.runtimeconfig.json
+C:\Users\DELL\source\repos\CAReflection\CAReflection\bin\Debug\net5.0\CAReflection.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAReflection\CAReflection\bin\Debug\net5.0\CAReflection.dll
+C:\Users\DELL\source\repos\CAReflection\CAReflection\bin\Debug\net5.0\ref\CAReflection.dll
+C:\Users\DELL\source\repos\CAReflection\CAReflection\bin\Debug\net5.0\CAReflection.pdb
+C:\Users\DELL\source\repos\CAReflection\CAReflection\obj\Debug\net5.0\CAReflection.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAReflection\CAReflection\obj\Debug\net5.0\CAReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAReflection\CAReflection\obj\Debug\net5.0\CAReflection.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAReflection\CAReflection\obj\Debug\net5.0\CAReflection.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAReflection\CAReflection\obj\Debug\net5.0\CAReflection.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAReflection\CAReflection\obj\Debug\net5.0\CAReflection.dll
+C:\Users\DELL\source\repos\CAReflection\CAReflection\obj\Debug\net5.0\ref\CAReflection.dll
+C:\Users\DELL\source\repos\CAReflection\CAReflection\obj\Debug\net5.0\CAReflection.pdb
+C:\Users\DELL\source\repos\CAReflection\CAReflection\obj\Debug\net5.0\CAReflection.genruntimeconfig.cache

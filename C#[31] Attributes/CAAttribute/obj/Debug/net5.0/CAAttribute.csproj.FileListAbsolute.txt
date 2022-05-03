@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\bin\Debug\net5.0\CAAttribute.exe
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\bin\Debug\net5.0\CAAttribute.deps.json
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\bin\Debug\net5.0\CAAttribute.runtimeconfig.json
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\bin\Debug\net5.0\CAAttribute.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\bin\Debug\net5.0\CAAttribute.dll
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\bin\Debug\net5.0\ref\CAAttribute.dll
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\bin\Debug\net5.0\CAAttribute.pdb
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\obj\Debug\net5.0\CAAttribute.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\obj\Debug\net5.0\CAAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\obj\Debug\net5.0\CAAttribute.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\obj\Debug\net5.0\CAAttribute.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\obj\Debug\net5.0\CAAttribute.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\obj\Debug\net5.0\CAAttribute.dll
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\obj\Debug\net5.0\ref\CAAttribute.dll
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\obj\Debug\net5.0\CAAttribute.pdb
+C:\Users\DELL\source\repos\CAAttribute.Usage\CAAttribute\obj\Debug\net5.0\CAAttribute.genruntimeconfig.cache

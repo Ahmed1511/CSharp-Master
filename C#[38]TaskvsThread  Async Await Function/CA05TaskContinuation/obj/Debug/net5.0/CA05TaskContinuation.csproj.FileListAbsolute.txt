@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\obj\Debug\net5.0\CA05TaskContinuation.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\obj\Debug\net5.0\CA05TaskContinuation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\obj\Debug\net5.0\CA05TaskContinuation.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\obj\Debug\net5.0\CA05TaskContinuation.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\obj\Debug\net5.0\CA05TaskContinuation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\bin\Debug\net5.0\CA05TaskContinuation.exe
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\bin\Debug\net5.0\CA05TaskContinuation.deps.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\bin\Debug\net5.0\CA05TaskContinuation.runtimeconfig.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\bin\Debug\net5.0\CA05TaskContinuation.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\bin\Debug\net5.0\CA05TaskContinuation.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\bin\Debug\net5.0\ref\CA05TaskContinuation.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\bin\Debug\net5.0\CA05TaskContinuation.pdb
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\obj\Debug\net5.0\CA05TaskContinuation.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\obj\Debug\net5.0\ref\CA05TaskContinuation.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\obj\Debug\net5.0\CA05TaskContinuation.pdb
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskContinuation\obj\Debug\net5.0\CA05TaskContinuation.genruntimeconfig.cache

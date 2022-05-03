@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CASerialization\CASerialization\bin\Debug\net5.0\CASerialization.exe
+C:\Users\DELL\source\repos\CASerialization\CASerialization\bin\Debug\net5.0\CASerialization.deps.json
+C:\Users\DELL\source\repos\CASerialization\CASerialization\bin\Debug\net5.0\CASerialization.runtimeconfig.json
+C:\Users\DELL\source\repos\CASerialization\CASerialization\bin\Debug\net5.0\CASerialization.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CASerialization\CASerialization\bin\Debug\net5.0\CASerialization.dll
+C:\Users\DELL\source\repos\CASerialization\CASerialization\bin\Debug\net5.0\ref\CASerialization.dll
+C:\Users\DELL\source\repos\CASerialization\CASerialization\bin\Debug\net5.0\CASerialization.pdb
+C:\Users\DELL\source\repos\CASerialization\CASerialization\obj\Debug\net5.0\CASerialization.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CASerialization\CASerialization\obj\Debug\net5.0\CASerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CASerialization\CASerialization\obj\Debug\net5.0\CASerialization.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CASerialization\CASerialization\obj\Debug\net5.0\CASerialization.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CASerialization\CASerialization\obj\Debug\net5.0\CASerialization.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CASerialization\CASerialization\obj\Debug\net5.0\CASerialization.dll
+C:\Users\DELL\source\repos\CASerialization\CASerialization\obj\Debug\net5.0\ref\CASerialization.dll
+C:\Users\DELL\source\repos\CASerialization\CASerialization\obj\Debug\net5.0\CASerialization.pdb
+C:\Users\DELL\source\repos\CASerialization\CASerialization\obj\Debug\net5.0\CASerialization.genruntimeconfig.cache

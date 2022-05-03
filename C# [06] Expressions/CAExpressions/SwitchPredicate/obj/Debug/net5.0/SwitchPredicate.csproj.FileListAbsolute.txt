@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\bin\Debug\net5.0\SwitchPredicate.exe
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\bin\Debug\net5.0\SwitchPredicate.deps.json
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\bin\Debug\net5.0\SwitchPredicate.runtimeconfig.json
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\bin\Debug\net5.0\SwitchPredicate.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\bin\Debug\net5.0\SwitchPredicate.dll
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\bin\Debug\net5.0\ref\SwitchPredicate.dll
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\bin\Debug\net5.0\SwitchPredicate.pdb
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\obj\Debug\net5.0\SwitchPredicate.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\obj\Debug\net5.0\SwitchPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\obj\Debug\net5.0\SwitchPredicate.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\obj\Debug\net5.0\SwitchPredicate.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\obj\Debug\net5.0\SwitchPredicate.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\obj\Debug\net5.0\SwitchPredicate.dll
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\obj\Debug\net5.0\ref\SwitchPredicate.dll
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\obj\Debug\net5.0\SwitchPredicate.pdb
+C:\Users\DELL\source\repos\CAExpressions\SwitchPredicate\obj\Debug\net5.0\SwitchPredicate.genruntimeconfig.cache

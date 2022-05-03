@@ -1,0 +1,24 @@
+C:\Users\DELL\source\repos\Assemblies\DemoLib\bin\Debug\net5.0\DemoLib.deps.json
+C:\Users\DELL\source\repos\Assemblies\DemoLib\bin\Debug\net5.0\DemoLib.dll
+C:\Users\DELL\source\repos\Assemblies\DemoLib\bin\Debug\net5.0\ref\DemoLib.dll
+C:\Users\DELL\source\repos\Assemblies\DemoLib\bin\Debug\net5.0\DemoLib.pdb
+C:\Users\DELL\source\repos\Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.dll
+C:\Users\DELL\source\repos\Assemblies\DemoLib\obj\Debug\net5.0\ref\DemoLib.dll
+C:\Users\DELL\source\repos\Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.pdb
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\DemoLib\bin\Debug\net5.0\DemoLib.deps.json
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\DemoLib\bin\Debug\net5.0\DemoLib.dll
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\DemoLib\bin\Debug\net5.0\ref\DemoLib.dll
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\DemoLib\bin\Debug\net5.0\DemoLib.pdb
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.dll
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\DemoLib\obj\Debug\net5.0\ref\DemoLib.dll
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\DemoLib\obj\Debug\net5.0\DemoLib.pdb

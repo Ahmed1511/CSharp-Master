@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\bin\Debug\net5.0\OperatorOverload.exe
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\bin\Debug\net5.0\OperatorOverload.deps.json
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\bin\Debug\net5.0\OperatorOverload.runtimeconfig.json
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\bin\Debug\net5.0\OperatorOverload.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\bin\Debug\net5.0\OperatorOverload.dll
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\bin\Debug\net5.0\ref\OperatorOverload.dll
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\bin\Debug\net5.0\OperatorOverload.pdb
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\obj\Debug\net5.0\OperatorOverload.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\obj\Debug\net5.0\OperatorOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\obj\Debug\net5.0\OperatorOverload.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\obj\Debug\net5.0\OperatorOverload.AssemblyInfo.cs
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\obj\Debug\net5.0\OperatorOverload.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\obj\Debug\net5.0\OperatorOverload.dll
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\obj\Debug\net5.0\ref\OperatorOverload.dll
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\obj\Debug\net5.0\OperatorOverload.pdb
+C:\Users\DELL\Desktop\OperatorOverloadApp\OperatorOverload\obj\Debug\net5.0\OperatorOverload.genruntimeconfig.cache

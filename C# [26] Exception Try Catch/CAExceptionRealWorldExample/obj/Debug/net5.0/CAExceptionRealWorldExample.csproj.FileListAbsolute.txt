@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\bin\Debug\net5.0\CAExceptionRealWorldExample.exe
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\bin\Debug\net5.0\CAExceptionRealWorldExample.deps.json
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\bin\Debug\net5.0\CAExceptionRealWorldExample.runtimeconfig.json
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\bin\Debug\net5.0\CAExceptionRealWorldExample.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\bin\Debug\net5.0\CAExceptionRealWorldExample.dll
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\bin\Debug\net5.0\ref\CAExceptionRealWorldExample.dll
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\bin\Debug\net5.0\CAExceptionRealWorldExample.pdb
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\obj\Debug\net5.0\CAExceptionRealWorldExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\obj\Debug\net5.0\CAExceptionRealWorldExample.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\obj\Debug\net5.0\CAExceptionRealWorldExample.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\obj\Debug\net5.0\CAExceptionRealWorldExample.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\obj\Debug\net5.0\CAExceptionRealWorldExample.dll
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\obj\Debug\net5.0\ref\CAExceptionRealWorldExample.dll
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\obj\Debug\net5.0\CAExceptionRealWorldExample.pdb
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\obj\Debug\net5.0\CAExceptionRealWorldExample.genruntimeconfig.cache
+C:\Users\DELL\source\repos\CAException\CAExceptionRealWorldExample\obj\Debug\net5.0\CAExceptionRealWorldExample.csproj.AssemblyReference.cache

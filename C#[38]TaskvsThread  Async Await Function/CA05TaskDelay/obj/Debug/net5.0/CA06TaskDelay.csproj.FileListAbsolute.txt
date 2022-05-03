@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\bin\Debug\net5.0\CA06TaskDelay.exe
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\bin\Debug\net5.0\CA06TaskDelay.deps.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\bin\Debug\net5.0\CA06TaskDelay.runtimeconfig.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\bin\Debug\net5.0\CA06TaskDelay.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\bin\Debug\net5.0\CA06TaskDelay.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\bin\Debug\net5.0\ref\CA06TaskDelay.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\bin\Debug\net5.0\CA06TaskDelay.pdb
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\obj\Debug\net5.0\CA06TaskDelay.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\obj\Debug\net5.0\CA06TaskDelay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\obj\Debug\net5.0\CA06TaskDelay.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\obj\Debug\net5.0\CA06TaskDelay.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\obj\Debug\net5.0\CA06TaskDelay.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\obj\Debug\net5.0\CA06TaskDelay.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\obj\Debug\net5.0\ref\CA06TaskDelay.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\obj\Debug\net5.0\CA06TaskDelay.pdb
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA05TaskDelay\obj\Debug\net5.0\CA06TaskDelay.genruntimeconfig.cache

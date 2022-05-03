@@ -1,0 +1,32 @@
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\bin\Debug\net5.0\CAThreadPool.exe
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\bin\Debug\net5.0\CAThreadPool.deps.json
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\bin\Debug\net5.0\CAThreadPool.runtimeconfig.json
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\bin\Debug\net5.0\CAThreadPool.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\bin\Debug\net5.0\CAThreadPool.dll
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\bin\Debug\net5.0\ref\CAThreadPool.dll
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\bin\Debug\net5.0\CAThreadPool.pdb
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.dll
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\obj\Debug\net5.0\ref\CAThreadPool.dll
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.pdb
+C:\Users\DELL\source\repos\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.genruntimeconfig.cache
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\bin\Debug\net5.0\CAThreadPool.exe
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\bin\Debug\net5.0\CAThreadPool.deps.json
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\bin\Debug\net5.0\CAThreadPool.runtimeconfig.json
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\bin\Debug\net5.0\CAThreadPool.runtimeconfig.dev.json
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\bin\Debug\net5.0\CAThreadPool.dll
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\bin\Debug\net5.0\ref\CAThreadPool.dll
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\bin\Debug\net5.0\CAThreadPool.pdb
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.csproj.AssemblyReference.cache
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.AssemblyInfoInputs.cache
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.AssemblyInfo.cs
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.csproj.CoreCompileInputs.cache
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.dll
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\obj\Debug\net5.0\ref\CAThreadPool.dll
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.pdb
+D:\Code Needed\0000-Mastering C#\C3[37] Threading\CAThreadPool\CAThreadPool\obj\Debug\net5.0\CAThreadPool.genruntimeconfig.cache

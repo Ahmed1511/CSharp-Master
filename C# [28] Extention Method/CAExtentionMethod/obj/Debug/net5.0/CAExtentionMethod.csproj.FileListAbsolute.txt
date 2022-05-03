@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\bin\Debug\net5.0\CAExtentionMethod.exe
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\bin\Debug\net5.0\CAExtentionMethod.deps.json
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\bin\Debug\net5.0\CAExtentionMethod.runtimeconfig.json
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\bin\Debug\net5.0\CAExtentionMethod.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\bin\Debug\net5.0\CAExtentionMethod.dll
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\bin\Debug\net5.0\ref\CAExtentionMethod.dll
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\bin\Debug\net5.0\CAExtentionMethod.pdb
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\obj\Debug\net5.0\CAExtentionMethod.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\obj\Debug\net5.0\CAExtentionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\obj\Debug\net5.0\CAExtentionMethod.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\obj\Debug\net5.0\CAExtentionMethod.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\obj\Debug\net5.0\CAExtentionMethod.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\obj\Debug\net5.0\CAExtentionMethod.dll
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\obj\Debug\net5.0\ref\CAExtentionMethod.dll
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\obj\Debug\net5.0\CAExtentionMethod.pdb
+C:\Users\DELL\source\repos\CAExtentionMethod\CAExtentionMethod\obj\Debug\net5.0\CAExtentionMethod.genruntimeconfig.cache

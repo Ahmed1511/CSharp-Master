@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\bin\Debug\net5.0\CAHashsetandSortedList.exe
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\bin\Debug\net5.0\CAHashsetandSortedList.deps.json
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\bin\Debug\net5.0\CAHashsetandSortedList.runtimeconfig.json
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\bin\Debug\net5.0\CAHashsetandSortedList.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\bin\Debug\net5.0\CAHashsetandSortedList.dll
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\bin\Debug\net5.0\ref\CAHashsetandSortedList.dll
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\bin\Debug\net5.0\CAHashsetandSortedList.pdb
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\obj\Debug\net5.0\CAHashsetandSortedList.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\obj\Debug\net5.0\CAHashsetandSortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\obj\Debug\net5.0\CAHashsetandSortedList.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\obj\Debug\net5.0\CAHashsetandSortedList.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\obj\Debug\net5.0\CAHashsetandSortedList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\obj\Debug\net5.0\CAHashsetandSortedList.dll
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\obj\Debug\net5.0\ref\CAHashsetandSortedList.dll
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\obj\Debug\net5.0\CAHashsetandSortedList.pdb
+C:\Users\DELL\source\repos\CALinkListandHashSet\CAHashsetandSortedList\obj\Debug\net5.0\CAHashsetandSortedList.genruntimeconfig.cache

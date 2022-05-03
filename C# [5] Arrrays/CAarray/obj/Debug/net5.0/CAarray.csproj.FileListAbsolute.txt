@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAarray\CAarray\bin\Debug\net5.0\CAarray.exe
+C:\Users\DELL\source\repos\CAarray\CAarray\bin\Debug\net5.0\CAarray.deps.json
+C:\Users\DELL\source\repos\CAarray\CAarray\bin\Debug\net5.0\CAarray.runtimeconfig.json
+C:\Users\DELL\source\repos\CAarray\CAarray\bin\Debug\net5.0\CAarray.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAarray\CAarray\bin\Debug\net5.0\CAarray.dll
+C:\Users\DELL\source\repos\CAarray\CAarray\bin\Debug\net5.0\ref\CAarray.dll
+C:\Users\DELL\source\repos\CAarray\CAarray\bin\Debug\net5.0\CAarray.pdb
+C:\Users\DELL\source\repos\CAarray\CAarray\obj\Debug\net5.0\CAarray.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAarray\CAarray\obj\Debug\net5.0\CAarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAarray\CAarray\obj\Debug\net5.0\CAarray.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAarray\CAarray\obj\Debug\net5.0\CAarray.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAarray\CAarray\obj\Debug\net5.0\CAarray.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAarray\CAarray\obj\Debug\net5.0\CAarray.dll
+C:\Users\DELL\source\repos\CAarray\CAarray\obj\Debug\net5.0\ref\CAarray.dll
+C:\Users\DELL\source\repos\CAarray\CAarray\obj\Debug\net5.0\CAarray.pdb
+C:\Users\DELL\source\repos\CAarray\CAarray\obj\Debug\net5.0\CAarray.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\bin\Debug\net5.0\CABoolienTypeandOperators.exe
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\bin\Debug\net5.0\CABoolienTypeandOperators.deps.json
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\bin\Debug\net5.0\CABoolienTypeandOperators.runtimeconfig.json
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\bin\Debug\net5.0\CABoolienTypeandOperators.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\bin\Debug\net5.0\CABoolienTypeandOperators.dll
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\bin\Debug\net5.0\ref\CABoolienTypeandOperators.dll
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\bin\Debug\net5.0\CABoolienTypeandOperators.pdb
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\obj\Debug\net5.0\CABoolienTypeandOperators.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\obj\Debug\net5.0\CABoolienTypeandOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\obj\Debug\net5.0\CABoolienTypeandOperators.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\obj\Debug\net5.0\CABoolienTypeandOperators.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\obj\Debug\net5.0\CABoolienTypeandOperators.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\obj\Debug\net5.0\CABoolienTypeandOperators.dll
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\obj\Debug\net5.0\ref\CABoolienTypeandOperators.dll
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\obj\Debug\net5.0\CABoolienTypeandOperators.pdb
+C:\Users\DELL\source\repos\CABoolienTypeandOperators\CABoolienTypeandOperators\obj\Debug\net5.0\CABoolienTypeandOperators.genruntimeconfig.cache

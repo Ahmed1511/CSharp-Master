@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CACallbyValbyReferance", "CACallbyValbyReferance\CACallbyValbyReferance.csproj", "{5811144D-B48A-4472-9035-E3179E229FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5811144D-B48A-4472-9035-E3179E229FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5811144D-B48A-4472-9035-E3179E229FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5811144D-B48A-4472-9035-E3179E229FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5811144D-B48A-4472-9035-E3179E229FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {493B3793-318A-4A73-B475-893E12F9C193}
+	EndGlobalSection
+EndGlobal

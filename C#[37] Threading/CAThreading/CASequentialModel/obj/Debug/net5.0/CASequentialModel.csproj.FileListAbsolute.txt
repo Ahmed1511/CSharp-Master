@@ -1,0 +1,32 @@
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\bin\Debug\net5.0\CASequentialModel.exe
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\bin\Debug\net5.0\CASequentialModel.deps.json
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\bin\Debug\net5.0\CASequentialModel.runtimeconfig.json
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\bin\Debug\net5.0\CASequentialModel.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\bin\Debug\net5.0\CASequentialModel.dll
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\bin\Debug\net5.0\ref\CASequentialModel.dll
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\bin\Debug\net5.0\CASequentialModel.pdb
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.dll
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\obj\Debug\net5.0\ref\CASequentialModel.dll
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.pdb
+C:\Users\DELL\source\repos\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.genruntimeconfig.cache
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\bin\Debug\net5.0\CASequentialModel.exe
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\bin\Debug\net5.0\CASequentialModel.deps.json
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\bin\Debug\net5.0\CASequentialModel.runtimeconfig.json
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\bin\Debug\net5.0\CASequentialModel.runtimeconfig.dev.json
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\bin\Debug\net5.0\CASequentialModel.dll
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\bin\Debug\net5.0\ref\CASequentialModel.dll
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\bin\Debug\net5.0\CASequentialModel.pdb
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.csproj.AssemblyReference.cache
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.AssemblyInfoInputs.cache
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.AssemblyInfo.cs
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.csproj.CoreCompileInputs.cache
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.dll
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\obj\Debug\net5.0\ref\CASequentialModel.dll
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.pdb
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CASequentialModel\obj\Debug\net5.0\CASequentialModel.genruntimeconfig.cache

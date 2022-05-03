@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\bin\Debug\net5.0\CAExpressions.exe
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\bin\Debug\net5.0\CAExpressions.deps.json
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\bin\Debug\net5.0\CAExpressions.runtimeconfig.json
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\bin\Debug\net5.0\CAExpressions.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\bin\Debug\net5.0\CAExpressions.dll
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\bin\Debug\net5.0\ref\CAExpressions.dll
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\bin\Debug\net5.0\CAExpressions.pdb
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\obj\Debug\net5.0\CAExpressions.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\obj\Debug\net5.0\CAExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\obj\Debug\net5.0\CAExpressions.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\obj\Debug\net5.0\CAExpressions.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\obj\Debug\net5.0\CAExpressions.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\obj\Debug\net5.0\CAExpressions.dll
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\obj\Debug\net5.0\ref\CAExpressions.dll
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\obj\Debug\net5.0\CAExpressions.pdb
+C:\Users\DELL\source\repos\CAExpressions\CAExpressions\obj\Debug\net5.0\CAExpressions.genruntimeconfig.cache

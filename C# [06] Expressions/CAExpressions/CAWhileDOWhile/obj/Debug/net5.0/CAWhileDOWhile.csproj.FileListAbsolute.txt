@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\bin\Debug\net5.0\CAWhileDOWhile.exe
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\bin\Debug\net5.0\CAWhileDOWhile.deps.json
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\bin\Debug\net5.0\CAWhileDOWhile.runtimeconfig.json
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\bin\Debug\net5.0\CAWhileDOWhile.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\bin\Debug\net5.0\CAWhileDOWhile.dll
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\bin\Debug\net5.0\ref\CAWhileDOWhile.dll
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\bin\Debug\net5.0\CAWhileDOWhile.pdb
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\obj\Debug\net5.0\CAWhileDOWhile.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\obj\Debug\net5.0\CAWhileDOWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\obj\Debug\net5.0\CAWhileDOWhile.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\obj\Debug\net5.0\CAWhileDOWhile.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\obj\Debug\net5.0\CAWhileDOWhile.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\obj\Debug\net5.0\CAWhileDOWhile.dll
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\obj\Debug\net5.0\ref\CAWhileDOWhile.dll
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\obj\Debug\net5.0\CAWhileDOWhile.pdb
+C:\Users\DELL\source\repos\CAExpressions\CAWhileDOWhile\obj\Debug\net5.0\CAWhileDOWhile.genruntimeconfig.cache

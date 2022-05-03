@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAList", "CAList\CAList.csproj", "{A95F7302-3FB9-4A05-B11B-E172AB6D7315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADictionaries", "CADictionaries\CADictionaries.csproj", "{C1069F19-22D9-4A03-869B-88CD78639973}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A95F7302-3FB9-4A05-B11B-E172AB6D7315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95F7302-3FB9-4A05-B11B-E172AB6D7315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95F7302-3FB9-4A05-B11B-E172AB6D7315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95F7302-3FB9-4A05-B11B-E172AB6D7315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1069F19-22D9-4A03-869B-88CD78639973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1069F19-22D9-4A03-869B-88CD78639973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1069F19-22D9-4A03-869B-88CD78639973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1069F19-22D9-4A03-869B-88CD78639973}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BDD8BC2-B386-4911-8B66-D3B83897BAF5}
+	EndGlobalSection
+EndGlobal

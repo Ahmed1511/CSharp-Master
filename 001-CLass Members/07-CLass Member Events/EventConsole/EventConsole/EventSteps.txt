@@ -1,0 +1,41 @@
+﻿1-Create Delegate object XxxHandler(); convertion 
+public delegate void ChangePriceHandler(Stock stock, decimal oldPrice);
+
+2-Create event OnXxxx Convention that using delegate object.
+public event ChangePriceHandler OnPriceChange;
+
+3-in the method that will fire the event.
+make sure there is subscriber if there is then fire event
+if (OnPriceChange !=null) // make sure there is subscriber
+{
+    OnPriceChange(this, oldPrice); // fire the event
+}
+
+4- on the client class(consummer).
+invoke the event
+stock.OnPriceChange += Tab_Tab; // will write the method
+
+private static void Stock_OnPriceChange(Stock stock, decimal oldPrice)
+        {
+            if (stock.Price > oldPrice)
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"{stock.Name} : {stock.Price}");
+            }
+            else if(stock.Price <oldPrice)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine($"{stock.Name} : {stock.Price}");
+            }
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"{stock.Name} : {stock.Price}");
+            }
+
+        }
+5- for UnSubscribe 
+ stock.OnPriceChange -= Stock_OnPriceChange;
+
+
+

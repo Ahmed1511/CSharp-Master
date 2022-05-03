@@ -1,0 +1,32 @@
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\bin\Debug\net5.0\CAEnumeratorandIterator.exe
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\bin\Debug\net5.0\CAEnumeratorandIterator.deps.json
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\bin\Debug\net5.0\CAEnumeratorandIterator.runtimeconfig.json
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\bin\Debug\net5.0\CAEnumeratorandIterator.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\bin\Debug\net5.0\CAEnumeratorandIterator.dll
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\bin\Debug\net5.0\ref\CAEnumeratorandIterator.dll
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\bin\Debug\net5.0\CAEnumeratorandIterator.pdb
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.dll
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\obj\Debug\net5.0\ref\CAEnumeratorandIterator.dll
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.pdb
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.genruntimeconfig.cache
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\bin\Debug\net5.0\CAEnumeratorandIterator.exe
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\bin\Debug\net5.0\CAEnumeratorandIterator.deps.json
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\bin\Debug\net5.0\CAEnumeratorandIterator.runtimeconfig.json
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\bin\Debug\net5.0\CAEnumeratorandIterator.runtimeconfig.dev.json
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\bin\Debug\net5.0\CAEnumeratorandIterator.dll
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\bin\Debug\net5.0\ref\CAEnumeratorandIterator.dll
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\bin\Debug\net5.0\CAEnumeratorandIterator.pdb
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.csproj.AssemblyReference.cache
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.AssemblyInfoInputs.cache
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.AssemblyInfo.cs
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.csproj.CoreCompileInputs.cache
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.dll
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\obj\Debug\net5.0\ref\CAEnumeratorandIterator.dll
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.pdb
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAEnumeratorandIterator\obj\Debug\net5.0\CAEnumeratorandIterator.genruntimeconfig.cache

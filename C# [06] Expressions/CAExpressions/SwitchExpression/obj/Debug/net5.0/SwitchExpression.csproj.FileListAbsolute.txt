@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\bin\Debug\net5.0\SwitchExpression.exe
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\bin\Debug\net5.0\SwitchExpression.deps.json
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\bin\Debug\net5.0\SwitchExpression.runtimeconfig.json
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\bin\Debug\net5.0\SwitchExpression.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\bin\Debug\net5.0\SwitchExpression.dll
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\bin\Debug\net5.0\ref\SwitchExpression.dll
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\bin\Debug\net5.0\SwitchExpression.pdb
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\obj\Debug\net5.0\SwitchExpression.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\obj\Debug\net5.0\SwitchExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\obj\Debug\net5.0\SwitchExpression.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\obj\Debug\net5.0\SwitchExpression.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\obj\Debug\net5.0\SwitchExpression.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\obj\Debug\net5.0\SwitchExpression.dll
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\obj\Debug\net5.0\ref\SwitchExpression.dll
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\obj\Debug\net5.0\SwitchExpression.pdb
+C:\Users\DELL\source\repos\CAExpressions\SwitchExpression\obj\Debug\net5.0\SwitchExpression.genruntimeconfig.cache

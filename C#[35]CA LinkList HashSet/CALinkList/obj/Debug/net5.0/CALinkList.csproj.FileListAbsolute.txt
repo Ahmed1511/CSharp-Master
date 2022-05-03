@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\bin\Debug\net5.0\CALinkList.exe
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\bin\Debug\net5.0\CALinkList.deps.json
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\bin\Debug\net5.0\CALinkList.runtimeconfig.json
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\bin\Debug\net5.0\CALinkList.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\bin\Debug\net5.0\CALinkList.dll
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\bin\Debug\net5.0\ref\CALinkList.dll
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\bin\Debug\net5.0\CALinkList.pdb
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\obj\Debug\net5.0\CALinkList.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\obj\Debug\net5.0\CALinkList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\obj\Debug\net5.0\CALinkList.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\obj\Debug\net5.0\CALinkList.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\obj\Debug\net5.0\CALinkList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\obj\Debug\net5.0\CALinkList.dll
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\obj\Debug\net5.0\ref\CALinkList.dll
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\obj\Debug\net5.0\CALinkList.pdb
+C:\Users\DELL\source\repos\CALinkListandHashSet\CALinkList\obj\Debug\net5.0\CALinkList.genruntimeconfig.cache

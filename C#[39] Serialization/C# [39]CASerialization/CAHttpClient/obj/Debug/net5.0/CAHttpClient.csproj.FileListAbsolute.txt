@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\bin\Debug\net5.0\CAHttpClient.exe
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\bin\Debug\net5.0\CAHttpClient.deps.json
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\bin\Debug\net5.0\CAHttpClient.runtimeconfig.json
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\bin\Debug\net5.0\CAHttpClient.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\bin\Debug\net5.0\CAHttpClient.dll
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\bin\Debug\net5.0\ref\CAHttpClient.dll
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\bin\Debug\net5.0\CAHttpClient.pdb
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\obj\Debug\net5.0\CAHttpClient.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\obj\Debug\net5.0\CAHttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\obj\Debug\net5.0\CAHttpClient.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\obj\Debug\net5.0\CAHttpClient.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\obj\Debug\net5.0\CAHttpClient.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\obj\Debug\net5.0\CAHttpClient.dll
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\obj\Debug\net5.0\ref\CAHttpClient.dll
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\obj\Debug\net5.0\CAHttpClient.pdb
+C:\Users\DELL\source\repos\CASerialization\CAHttpClient\obj\Debug\net5.0\CAHttpClient.genruntimeconfig.cache

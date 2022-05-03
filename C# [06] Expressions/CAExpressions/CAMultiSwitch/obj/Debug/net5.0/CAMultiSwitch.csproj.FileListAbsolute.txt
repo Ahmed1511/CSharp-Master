@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\bin\Debug\net5.0\CAMultiSwitch.exe
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\bin\Debug\net5.0\CAMultiSwitch.deps.json
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\bin\Debug\net5.0\CAMultiSwitch.runtimeconfig.json
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\bin\Debug\net5.0\CAMultiSwitch.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\bin\Debug\net5.0\CAMultiSwitch.dll
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\bin\Debug\net5.0\ref\CAMultiSwitch.dll
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\bin\Debug\net5.0\CAMultiSwitch.pdb
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\obj\Debug\net5.0\CAMultiSwitch.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\obj\Debug\net5.0\CAMultiSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\obj\Debug\net5.0\CAMultiSwitch.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\obj\Debug\net5.0\CAMultiSwitch.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\obj\Debug\net5.0\CAMultiSwitch.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\obj\Debug\net5.0\CAMultiSwitch.dll
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\obj\Debug\net5.0\ref\CAMultiSwitch.dll
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\obj\Debug\net5.0\CAMultiSwitch.pdb
+C:\Users\DELL\source\repos\CAExpressions\CAMultiSwitch\obj\Debug\net5.0\CAMultiSwitch.genruntimeconfig.cache

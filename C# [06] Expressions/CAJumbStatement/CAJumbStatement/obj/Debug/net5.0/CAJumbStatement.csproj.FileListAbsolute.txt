@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\bin\Debug\net5.0\CAJumbStatement.exe
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\bin\Debug\net5.0\CAJumbStatement.deps.json
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\bin\Debug\net5.0\CAJumbStatement.runtimeconfig.json
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\bin\Debug\net5.0\CAJumbStatement.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\bin\Debug\net5.0\CAJumbStatement.dll
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\bin\Debug\net5.0\ref\CAJumbStatement.dll
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\bin\Debug\net5.0\CAJumbStatement.pdb
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\obj\Debug\net5.0\CAJumbStatement.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\obj\Debug\net5.0\CAJumbStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\obj\Debug\net5.0\CAJumbStatement.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\obj\Debug\net5.0\CAJumbStatement.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\obj\Debug\net5.0\CAJumbStatement.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\obj\Debug\net5.0\CAJumbStatement.dll
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\obj\Debug\net5.0\ref\CAJumbStatement.dll
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\obj\Debug\net5.0\CAJumbStatement.pdb
+C:\Users\DELL\source\repos\CAJumbStatement\CAJumbStatement\obj\Debug\net5.0\CAJumbStatement.genruntimeconfig.cache

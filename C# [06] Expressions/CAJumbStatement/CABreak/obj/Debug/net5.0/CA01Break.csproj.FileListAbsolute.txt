@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\CA01Break.exe
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\CA01Break.deps.json
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\CA01Break.runtimeconfig.json
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\CA01Break.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\CA01Break.dll
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\ref\CA01Break.dll
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\CA01Break.pdb
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CA01Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CA01Break.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CA01Break.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CA01Break.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CA01Break.dll
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\ref\CA01Break.dll
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CA01Break.pdb
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CA01Break.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\DELL\source\repos\CAThreading\CAThreading\bin\Debug\net5.0\CAThreading.exe
+C:\Users\DELL\source\repos\CAThreading\CAThreading\bin\Debug\net5.0\CAThreading.deps.json
+C:\Users\DELL\source\repos\CAThreading\CAThreading\bin\Debug\net5.0\CAThreading.runtimeconfig.json
+C:\Users\DELL\source\repos\CAThreading\CAThreading\bin\Debug\net5.0\CAThreading.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAThreading\CAThreading\bin\Debug\net5.0\CAThreading.dll
+C:\Users\DELL\source\repos\CAThreading\CAThreading\bin\Debug\net5.0\ref\CAThreading.dll
+C:\Users\DELL\source\repos\CAThreading\CAThreading\bin\Debug\net5.0\CAThreading.pdb
+C:\Users\DELL\source\repos\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.dll
+C:\Users\DELL\source\repos\CAThreading\CAThreading\obj\Debug\net5.0\ref\CAThreading.dll
+C:\Users\DELL\source\repos\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.pdb
+C:\Users\DELL\source\repos\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.genruntimeconfig.cache
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\bin\Debug\net5.0\CAThreading.exe
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\bin\Debug\net5.0\CAThreading.deps.json
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\bin\Debug\net5.0\CAThreading.runtimeconfig.json
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\bin\Debug\net5.0\CAThreading.runtimeconfig.dev.json
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\bin\Debug\net5.0\CAThreading.dll
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\bin\Debug\net5.0\ref\CAThreading.dll
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\bin\Debug\net5.0\CAThreading.pdb
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.csproj.AssemblyReference.cache
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.AssemblyInfoInputs.cache
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.AssemblyInfo.cs
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.csproj.CoreCompileInputs.cache
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.dll
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\obj\Debug\net5.0\ref\CAThreading.dll
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.pdb
+D:\Code Needed\0000-Mastering C#\C#[37] Threading\CAThreading\CAThreading\obj\Debug\net5.0\CAThreading.genruntimeconfig.cache

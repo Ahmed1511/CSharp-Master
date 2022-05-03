@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CA07SyncvsAsync/1.0.0": {
+        "runtime": {
+          "CA07SyncvsAsync.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CA07SyncvsAsync/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

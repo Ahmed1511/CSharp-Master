@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\bin\Debug\net5.0\CAExceptionCustomException.exe
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\bin\Debug\net5.0\CAExceptionCustomException.deps.json
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\bin\Debug\net5.0\CAExceptionCustomException.runtimeconfig.json
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\bin\Debug\net5.0\CAExceptionCustomException.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\bin\Debug\net5.0\CAExceptionCustomException.dll
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\bin\Debug\net5.0\ref\CAExceptionCustomException.dll
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\bin\Debug\net5.0\CAExceptionCustomException.pdb
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\obj\Debug\net5.0\CAExceptionCustomException.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\obj\Debug\net5.0\CAExceptionCustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\obj\Debug\net5.0\CAExceptionCustomException.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\obj\Debug\net5.0\CAExceptionCustomException.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\obj\Debug\net5.0\CAExceptionCustomException.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\obj\Debug\net5.0\CAExceptionCustomException.dll
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\obj\Debug\net5.0\ref\CAExceptionCustomException.dll
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\obj\Debug\net5.0\CAExceptionCustomException.pdb
+C:\Users\DELL\source\repos\CAException\CAExceptionCustomException\obj\Debug\net5.0\CAExceptionCustomException.genruntimeconfig.cache

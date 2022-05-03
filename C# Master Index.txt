@@ -1,0 +1,423 @@
+
+
+		C# [002] Solution And Project
+			00:00​ Intro | مقدمة
+			01:10 Adding Items to solution | اضافة عناصرللسوليوشن
+			07:10 Application Vs Class Library | الفرق بين التطبيق والمكتبة
+			12:14 Referencing a project | اصافة مرجعية لمشروع من مشروع اخر
+			18:30 Version Compatibility | توافقية الاصدارات
+			22:00 Add / Remove Item  to Project | اضافة عناصر للمشروع
+			26:42 Namespace Vs. Classes | الفضاء مع الكلاس
+			30:50 One Class Per file | طريقة ملف واحد لكل كلاس
+			
+		C# [003] Variables in c#
+			00:00​ Intro | مقدمة
+			01:00 Comment in C#  | التعليق بلغة 
+			01:52 Permanent Memory(HDD) Vs Temporary Memory (RAM)  | الذاكرة العشوائية مقابل الذاكرة الدائمة  
+			04:30 Declaration | التصريح بالمتغيرات
+			05:47 Assignment  | اسناد قيم للمتغيرات
+			08:08 Initialization  | عملية اعطاء قيم ابتدائية للمتغيرات
+			14:37 Numerical data types as value types | انواع البيانات الرقمية 
+			08:48 String as a reference type | نوع البيانات النص 
+			09:14 Stack Vs. Heap  | الفرق بين المكدس والكومة 
+			11:52 String Concatenation | string Interpolation | دمج النصوص
+			18:09 var keyword and literal suffix  | الكلمة var واستنباط نوع البيانات
+			21:58 dynamic key word  | نوع بيانات متحور
+			24:03 Recap example  | مثال شامل
+			
+		C# [004] Boolean Types & Operators
+			00:00​ Intro | مقدمة
+			00:45 Expressions | التعابير
+			01:35 Equality Operators | عوامل المساواة
+			07:00 Comparison Operators | عوامل المقارنة
+			11:32 Conditional Operators. | العوامل  المنطقية
+			18:45 Short circuit and logical operators | الطريق المختصر والعوامل المنطقية
+			20:00 Equality Operators and reference type | معامل المساواة ونوع البيانات المرجعي
+			31:21 Ternary Operator | العامل الثلاثي
+			
+		C# [005] Arrays
+			00:00​ Intro | مقدمة
+			03:05 How They Stored | كيف يتم التخزين
+			03:00 Declaration and Initialization. | التصريح واعطاء قيمة ابتدائية
+			09:57 Multi Dimensional Array. | المصفوفة المربعة
+			11:40 Jagged Array | المصفوفة المتعرجة
+			15:05 Indices and Ranges.  |المؤشر والنطاق
+			20:56 Bound Checking  | تدقيق الحدود مصفوفة
+			
+		C# [006] Expressions
+			00:00 Intro | مقدمة
+			00:50 Expression Types | انواع التعابير
+			06:06 Binary Operators. |المعاملات الثنائية
+			11:43 Null Coalescing "??" . | الاندماج الصفري
+			13:55 Null conditional "?." | شرط الانعدام
+			18:30 Statement vs Statement blocks: | الجمل والجمل المجمعة
+			20:45 statement Expression.   | انواع الجمل في لغات البرمجة وبالاخص c#
+			24:56 Selection statement if, if else, switch |جمل الاختيار
+			47:17 Iterations (while, do while, for, foreach. | جمل التكرار 
+			01:01:18 Jump statement (break, continue, goto, return) | جمل القفز
+		
+		C# [007] Casting / Type Conversion		
+			00:00​ Intro | مقدمة
+			01:20​ Data Types are objects | انواع البيانات بالاصل اوبجكت
+			11:30​ Implicit and Explicit Casting | التحوير الضمني والتصريحي
+			19:10​ Boxing and Unboxing . | التحويل من قيمة لاوبجكت
+			22:37​ Parse() Method | دالة Parse
+			26:24​ TryParse() Method | دالة TryParse
+			30:44​ Convert Class   |  فئة التحويل
+			33:12​ BitConverter And Value Types |  فئة التحويل للنطفة
+		
+		C# [008] Field & Constant
+			00:00​ Intro | مقدمة
+			01:24​  The Problem Statement | اين المشكلة
+			02:35​ Console.ReadLine() | قراءة مدخلات من المستخدم
+			03:30​ Old School approach | الطريقة القديمة في البرمجة
+			14:05​ OOP Definition. | تعريف البرمجة الموجهة للكيانات
+			16:42​ Refactor To Class | تعديل واستخدام الفئة
+			17:00 Class Definition |  تعريف الفئة
+			19:06 Class Members   |  أعضاء الفئة
+			20:17​ Fields |  الخصائص
+			22:45​ Constants |  الثوابت
+			24:40​  Class Vs. Object |  الفئة و الكائن
+			
+		C# [009] Methods
+			01:20​ Instance Vs. Static Member | العضو المشترك والعضو التابع للكيان
+			11:20​ Method Syntax |  صيغة الدوال
+			15:00 Caller Vs Callee | المستدعي والمستدعى
+			21:58 Argument Vs Parameter | القيمة المرسلة والقيمة المستقبلة
+			23:28​ Passing Argument By Value And By Reference | ارسال قيم بمرجعية او بدون
+			26:36​ ref Vs. out |  الفرق بين ref و out
+			33:34​ Method Signature | بصمة الدوال
+			36:40​ Method Overloading | تعريف البرمجة الموجهة للكيانات
+			44:12​ Expression Bodied Method| الدالة بدون جسم او بلوك
+			46:52​ Local Method | الدوال المحلية
+			51:59​ Static Method |  الدوال المشتركة
+			53:25​ Refactor Salary Slip Application |  تعديل تطبيق حساب قسيمة الرواتب
+			59:00​ Insure Encapsulation | تأكيد الكبسلة (التحزيم)
+			
+		C# [010] Constructor
+			00:00​ Intro | مقدمة
+			01:15 What is constructor |  ما هو الكونستركتر
+			02:35​ Problem Statement Modeling  |  تأطير المسألة
+			11:10 PadLeft   | الحفاظ على عدد الخانات التي على يسار الرقم
+			13:20 Single Responsibility | من المسؤؤل عن ...
+			13:38​ this keyword | الكلمة المحجوزة  this
+			15:10​ Adding constructor |  اضافة  كونستركتر
+			23:10​  Implicit constructor |  الكونستركتر الضمني
+			25:15​ Constructor / private fields . |  الكونستركتر والفيلد الخاص
+			44:12​ Constructor and Validation | الكونستركتر والتدقيق
+			46:52​ Readonly Field | الفبلد المخصص للقراءة
+			43:10​ Constructor Overloading |    الكونستركتر اوفرلودينج
+			48:17​ Object Initializer |  كيفية عمل كائن بطريقة اعطاء قيم اولية
+			54:45​ Factory Method and Private Constructor |   دالة المصنع والكونستركتر الخاص
+		
+		C# [011] Properties
+			00:00​ Intro | مقدمة
+			01:15​ What is C# property | ما هي البروبرتي
+			01:40​ Why Property |  لماذا نسنخدم البروبرتي
+			07:45​ Property Syntax . | صيغة البروبرتي
+			08:55​ get and set accessors | الحصول على الملحقات وتعيينها
+			12:55​ Property and validation  |  البروبرتي والتدقيق
+			15:35​ Don't Repeat Yourself (DRY) | مبدأ لا تكرر نفسك
+			17:09 Rounding numbers  | تقريب الارقام
+			19:59 Property Accessibility  |  طريقة الوصول للبروبرتي
+			23:52 Read only property  |  بروبرتي للقراءة فقط
+			23:52 Expression Bodied Property | بروبرتي من دون جسم  
+			28:15 Property And Initialization | اعطاء قيم اولية للبروبرتي
+			30:05 Property Internally | ما هي التفاصيل التقنية للبروبرتي
+			35:15 Automatic Property | بروبرتي تلقائية
+			
+		C# [012] Indexers			
+			00:00​ Intro | مقدمة
+			00:50​ What is C# Indexers | ما هي المفهرسات
+			03:18​ Single Dimensional Map | الفهرسة الاحادية الاتجاه
+			07:10 String.Join(). | دالة الدمج للنصوص
+			12:10​ Indexers syntax | صيغة المفهرسات
+			15:10​ String.ٍSplit(). | دالة فصل للنصوص
+			20:03​ Multiple Dimensional Map | الفهرسة المزدوجة الاتجاه
+			25:45 Validating Suduko  | عملية تدفيق السودوكو
+			30:00 Why Indexers  | لماذا المفهرسات
+			
+		C# [013] Delegate
+			00:00​ Intro | مقدمة
+			01:06​ Problem Statement Reporting App | المسألة نطام تقارير
+			08:05 What is C# Delegate | ما هو المفوض 
+			17:09 Anonymous Delegate | المفوض المجهول
+			20:15​  Lambda Expression | صيغة اللامبدا
+			22:20 Multicast Delegate | المفوض متعدد الاستدعاءات
+			
+		C# [014] Events
+			00:00​ Intro | مقدمة
+			00:45​ Problem Statement Stock Market App| المسألة نطام الاسهم
+			08:45 What is C#  Event | ما هو الحدث 
+			08:55 Event and Delegate. | المفوض والحدث
+			11:00 Event Declaration. |  التصريح بالحدث
+			12:25 Fire/Publish) Event. |  اطلاق او نشر الحدث
+			14:50 Subscriber vs Publisher |  الناشر والمشترك
+			15:05 Subscribe to event |   الاشتراك في حدث
+			15:05 Subscribe to event |   الاشتراك في حدث
+			23:30 Unsubscribe to event |   الغاء الاشتراك في حدث  
+			24:30​ Lambda Expression | صيغة اللامبدا 
+			
+		C# [015] Operator Overloading
+			00:00​ Intro | مقدمة 
+			01:10 Defining Operator Overloading | تعريف تبني المعاملات
+			05:55 Predefined Operator |  العوامل المحددة مسبقا
+			06:25  Supported Operators |  العوامل المدعومة
+			07:32  Operator Overloading Syntax  |  صيغة تبني المعاملات
+			12:14 Overloaded Operator that must be in pairs |  القيود والتي تتطلب التعريف المزدوج
+		
+		C# [016] Finalizer
+			00:00​ Intro | مقدمة 
+			01:10 Definitions | تعريف المتلف
+			04:45 Object scope | نطاق الكيان
+			05:55 Garbage Collection | جامع النفايات
+			08:16 Explicit Vs. Implicit Collection | جمع النفايات ضمنبا او تصريحيا
+			09:56 GC.Collect() |  GC.Collect() دالة
+			
+		C# [017] Nested Types
+			00:00​ Intro | مقدمة 
+			00:52 Definitions | تعريف تداخل الكلاسات
+			01:45 Internal Vs. Public | Internal Vs. Public الفرق بين
+			06:17 Private Vs. Public member | private Vs. Public  الفرق بين العضو
+			07:09 Why Nested class | لماذا تداخل الكلاسات
+			12:50 Composite | علاقة الامتلاك 
+			16:22 Composite object initialization |  اعطاء قيم اولية للكيات المركب
+			18:26 Class Members Checklist |  قائمة التدقيق الخاصة باعضاء الكلاس
+			
+		C# [018] Troubleshooting
+			00:00​ Intro | مقدمة 
+			00:45 Error Types  | أنواع الاخطاء
+			01:00 Syntax Error  | خطأ بالصيغة التي كتب فيها الكود
+			04:38 Runtime Error  | خطأ أثناء التشغيل
+			11:30 Handle Exception try catch finally  | معالجة الاحداث الاستثنائية
+			17:25 Logical Error  |  خطأ منطقي
+			23:35 Debugger and tracing   | تتبع الاخطاء 
+			
+		C# [019] Struct
+			00:00​ Intro | مقدمة 
+			00:50  Definition of struct  | تعريف الهيكل
+			01:30  Class Vs Struct  |  الهيكل مقابل الفئة
+			17:20  Practical Example  |  مثال عملي
+			26:45 Immutable Vs. Mutable  |  قابل للتعديل وغير قابل للتعديل
+			35:11 Readonly struct | هيكل للقراءة فقط
+			38:28 DateTime struct  | هيكل التاريخ والوقت
+			
+		C# [020] Enum Datatype
+			00:00​ Intro | مقدمة 
+			00:50 Definition  | تعريف
+			02:47 Simple Enum | Enum البسيط
+			07:50 Flags Enum | Enum التأشيري
+			18:50 Enum Parsing and Data Conversion | Enum  تحويرات
+			27:10 Looping on Enums |   و التكرار   Enum
+			
+		C# [021] Inheritance
+			00:00​ Intro | مقدمة 
+			01:10 What, Why and How | ما هو و لماذا وكيف
+			08:30 Casting and Conversion | التحويل والتحوير
+			16:57 Abstract class | الكلاس المجرد
+			18:40 Sealed Class| الكلاس المختوم
+			20:20 Virtual Functions | الدوال الوهمية
+			24:45 Abstract Member | العضو المجرد
+			26:53 Sealed Member | العضو المختوم
+			29:36 Object Class | الكلاس object
+			37:08 Constructor and Inheritance | الكونستركتر والتوارث
+			40:22 Real world example | تطبيق شامل يغطي كل التفاصيل
+			01:24:50 Hiding Inherited Members | اخفاء عضو متورث
+			
+		C# [022] Interface
+			00:00​ Intro | مقدمة  
+			03:42 Abstract Vs. Concrete Type | النوع التجريدي مقابل النوع الملموس 
+			06:10 Interface Definition | تعريف الواجهة
+			08:36 Implicit Interface Implementation | التطبيق الضمني للواجهة
+			13:40 Explicit Interface Implementation | التطبيق التصريحي للواجهة
+			17:30 Real world Example | مثال واقعي لاستخدام الواجهة
+			21:22 Tight coupling Vs loose coupling | الارتباط الوثيق مقابل الارتباط الرخو
+			
+		C# [023] Generics
+			00:00​ Intro | مقدمة 
+			01:00 Before Generics - overloading |  قبل Generics 
+			03:35 Before Generics - base class object |  قبل Generics 
+			07:00 Generics What, Why |  ماذا ولماذا التعميم في البيانات
+			08:00 Generics Method |   التعميم في الدوال
+			11:18 Generics Class |   التعميم في الكلاسات
+			28:08 Generics Constraints | محددات التعميم  
+			34:41 Built in .NET Generics and Collections |  التعميم  المتاح في مكتبة الدوت نت
+			
+		C# [024] Action, Func, Predicate 
+			00:00​ Intro | مقدمة 
+			00:35 Introduction | مقدمة
+			09: 00 Delegate| المفوض 
+			12: 40 Generic Delegate|   المفوض العام
+			13:00 Covariance and Contravariance Generics | التحكم بالقيم المدخلة والقيم الراجعة  
+			16:20 Action, Func and Predicate|  المفوض العام المدمجة
+			
+		C# [025] Exceptions
+			00:00​ Intro | مقدمة 
+			00:48 What Why and How  | ما هو ولماذا وكيف
+			02:25 Exception Handling using Try catch  block  | التعامل مع الاستثناء
+			05:48 Catch Exceptions | معالجة الحدث الاستثنائي
+			06:10 Exception class | كلاس Exception
+			09:35 Catch specific Exception | معالجة حدث خاص
+			11:00 Catch Multiple Exceptions | التعامل مع اكثر من حدث استثنائي
+			12:21 Exception Filters | تصفية  الجدث الاستنائي
+			13:55 Real World Example | مثال واقعي
+			23:25 Fake Processing using Delay  | محاكاة المعالجة باستخدام  التعطيل
+			27:20 Mocking Exception using Random class  | محاكاة حدوث الاستثناء باستخدام
+			34:00 Custom Exception | حدت استثنائي مخصص
+			41:35 Swallow Exception | ابتلاع الحدث الاستثنائي
+			43:50 Ducking Exception (Rethrow)  | نقل الحدث الاستثنائي الى المستدعي
+			
+		C# [026] Enumerators and Iterators
+			01:19 Equal() and logical equal  |  الفرق بين دالة المساوة والشرط المنطقي للمساواة
+			12:30 GetHashCode()  | الحصول على كود التجزئة
+			17:35 IEnumerable Interface |   واجهة المعددات 
+			20:00 IEnumerator Interface  |  واجهة المكررات
+			28:55 yield keyword  |  الكلمة المحجوزة yield
+			30:25 IComparable Interface  |  واجهة المقارنات
+			
+		C# [027] Document Your code
+			00:00​ Intro | مقدمة 
+			01:14 setup example  |  اعداد المثال 
+			22:40  XML Documentation  |  التوثيق XML
+			37:20  Generate XML Document  |  تصدير التوثيق  
+			38:15  Include External XML document  |  استيراد ملف التوثيق الخارجي  
+			44:15  Best practices |  افضل التجارب
+			
+		C# [028] Extension Methods
+			00:00​ Intro | مقدمة 
+			01:00 What, Why and How | ماذا ولماذا وكيف
+			06:30 DateTime and DateTimeOffset |التاريخ و الوقت اللحظي والتاريخ والوقت النسبسي 
+			10:41 Timespan | الفترة الزمنية
+			13:40 Old style Helper class | الطريقة القديمة للتمدد
+			19:41 Extension Methods | دوال التمدد
+			25:30 Method Chaining  | تسلسل الدوال
+			40:15 Resolve Ambiguity  |  ازالة الغموض 
+		
+		C# [029] Assemblies
+			00:00​ Intro | مقدمة 
+			01:18 Assembly Definition | تعريف المجسم
+			03:22 Framework & Assembly|  منصات الدوت نت والمجسم
+			06:03 Intermediate Language (IL) and Just in time (JIT)|  اللغة الوسيطة والترجمة في الوقت المناسب
+			09:40 Assembler (ilasm.exe) Vs Disassembler (ildasm.exe)| المجمع مقابل المفكك
+			15:01 How to access Assembly Programmatically | كيف اتعامل مع المجمع برمجيا
+			24:26 Accessing Metadata| التعامل مع وصف البيانات
+			29:29 Embedding Resources| تضمين الموارد
+			
+		C# [030] Reflection And Metadata
+			00:00​ What Why and How | ماذا، لماذا وكيف 
+			01:22 Obtaining Types | الحصول على النوع
+			14:12 Instantiating Types| انشاء الانواع
+			29:05 Reflecting Members | الانعكاس على اعضاء النوع
+			48:08 Invoking Members | استدعاء الاعضاء عن طريق الانعكاس
+			52:05 Reflecting Assemblies | استدعاء المجمع بطريقة الانعكاس
+			
+		C# [031] Attributes
+			00:00 Intro | مقدمة
+			01:00 definition | تعاريف 
+			03:12 Collections | المجموعات
+			07:42 List Example | القائمة 
+			12:26 Define a List | تعريف القائمة
+			12:40 Add item(s)to list | اضافة عنصر او اكثر للقائمة
+			18:23 Count & Capacity | العدد والسعة
+			25:09 Remove item(s) from the list | ازالة عنصر او اكثر من القائمة
+			36:13 Dictionary | القاموس
+			37:15 Add to dictionary |  الاضافة على القاموس
+			46:21convert list to dictionary | تحويل القائمة الى قاموس
+			
+		C# [032] Lists And Dictionaries
+			00:00 Intro | مقدمة
+			01:00 definition | تعاريف 
+			03:12 Collections | المجموعات
+			07:42 List Example | القائمة 
+			12:26 Define a List | تعريف القائمة
+			12:40 Add item(s)to list | اضافة عنصر او اكثر للقائمة
+			18:23 Count & Capacity | العدد والسعة
+			25:09 Remove item(s) from the list | ازالة عنصر او اكثر من القائمة
+			36:13 Dictionary | القاموس
+			37:15 Add to dictionary |  الاضافة على القاموس
+			46:21convert list to dictionary | تحويل القائمة الى قاموس
+			
+		C# [033] Stack and Queue
+			00:00​ Intro | مقدمة  
+			02:00  stack and queue real use cases | استخدامات من الواقع للمكدس والطابور
+			09:16  Stack Real world example | مثال واقعي للمكدس
+			25:59  stack Peek() Vs Pop() | الفرق بين
+			28:28  Queue Real world example | مثال واقعي للطابور
+			37:34  Peek(), TryPeek(), Dequeue(), TryDequeue() | الفرق بين
+			
+		C# [034] LinkedList, HashSet and SortedSet		
+			00:00 Intro | مقدمة
+			01:00 LinkedList What and Why | السلاسل المتصلة ماهي ولماذا نستخدمها
+			06:00 How To LinkedList | كيف نطبق السلاسل المتصلة
+			16:11 Using LinkedList functions and properties | خصائص ودوال السلاسل المتصلة
+			21:20 HashSet And SotedSet What, Why | السلسلة المجزأة فهرسيا والقائمة المرتبة ماذا ولماذا
+			24:35 How Hashset and sortedList | كيف اطبق  السلسلة المجزأة فهرسيا والقائمة المرتبة  
+			27:58 Apply Equality to Class : تطبيق المساواة للكلاس
+			38:33 HashSet Method and Properties |  خصائص ودوال القائمة المجزأة فهرسيا 
+			42:20 SortedList | القائمة المرتبة
+			42:40 Implement IComparable | ادماج المساوة لكائن
+			
+		C# [035] Stream I/O
+			00:00 Introduction | مقدمة
+			02:28 Disposable design pattern | نمط تصميم الاتلاف
+			10:40 Stream Architecture | معمارية التدفق
+			22:15 Implement IDisposable pattern | تطبيق نمط تصميم الاتلاف
+			46:28 FileStream (Back Store) | المخزن الخلفي 
+			01:07:40 StreamReader, StreamWriter | تعامل مع الملفات باستخدام الاغلفة
+			01:14:05 File Façade Operations | واجهة لتطبيق اكثر سهولة
+			01:20:17 DeflateStream (Decorator) | عملة ضعط محتويات تدفق
+			
+		C# [036] Nuget Packages and Packaging
+			00:00 Intro | مقدمة
+			00:55 What is Package? | ما هي الحزمة البرمجية
+			02:30 What is Nuget Package Manager | ما هو مدير حزم الدوت نت
+			04:20 Nuget.Org Repository |  مخزن نوجت دوت اورج
+			05:40 Consuming .NET Nuget Package | استهلاك حزمة نوجت 
+			22:33 Update .NET Nuget referenced Package | تعديل حزمة مستهلكة
+			24:35 Create Real world Project | بناء مشروع   
+			46:15 Edit metadata | تعديل البيانات الوصفية
+			48:20 DEBUG VS. RELEASE Mode | وضع التصحيح مقابل وضع الإصدار
+			55:00 Pack Project | تحزيم المشروع
+			56:00 Publish package to nuget.org | نشر الحزمة في موقع 
+			
+		C# [037] Threading
+			00:00 Intro | مقدمة
+			00:55 Modern Application and Concurrency | التطبيقات الحديثة والتزامن
+			02:00 Process And Thread | العملية وشريط التعليمات 
+			08:45 Sequential Synchronous Approach |  الطريقة المتسلسةالمتزامنة
+			18:00 Creating a thread | خلق شريط عمليات
+			24:00 Foreground Vs Background Threads | شرائط العمليات الامامية والخلفية
+			27:47 Start a Thread | بدء تنفيذ شريط العمليات
+			33:14 Join a thread | انتظار نتيجة التنفيذ
+			35:50 Race Condition | منطق التسابق
+			45:20 Lock to prevent Race condition | تجنب منطق التسابق باستخدام القفل
+			47:40 Deadlock | الطريق المسدود
+			01:08:15 Thread Pool | بركة شرائط العمليات
+			01:09:13 ThreadPool class and Pooled thread | كلاس بركة الشرائط
+			01:13:10 Task class and Pooled thread | كلاس المهام وبركة الشرائط
+			01:14:50 Real World WaitCallBack | مثال واقعي على انتظار النتيجة
+			
+		C# [038] Asynchronous Programming
+			00:00 Intro | مقدمة
+			01:00 Task Vs. Threads | المهام مقابل مسار العمليات
+			11:00 Task Return Value | مهمة ترجع قيمة للمستدعي
+			15:55 Long Running Tasks | المهام التي تتطلب وقت طويل للتنفيذ
+			19:36 Exception Propagation | تصاعد الاحداث الاستثنائية
+			26:38 Task Continuation | عندما تكتمل المهمة
+			38:43 Task.Delay() Vs Thread.Sleep() |  تنويم المسار مقابل تاخير المهمة
+			43:07 Sync Vs. Async | التزامن مقابل اللاتزامن
+			56:42 Asynchronous Function (async, await) | دوال التزامن
+			01:13:55 Cancellation Token | رمز الالغاء
+			01:29:01 Report a Progress from Async Funtion | اعطاء تقرير بنسبة الانجاز
+			01:34:35 Combinators | التباديل
+			01:42:05 Task-Based Asynchronous Pattern | انماط المهام غير المتزامنة
+			01:43:39 Concurrency and Parallelism |  التنفيذ بالتزامن او بالتوازي
+			
+		C# [039] Serialization in .NET
+			00:00 Intro | مقدمة
+			01:20 what and why serialization |  ما هو ولماذا يستخدم التحويل من كائن لشكل اخر
+			05:54 serialization technologies | التقنيات المستخدمة في التحويل الى شكل اخر
+			09:40 xml serialization and deserialization | xml تحويل الكائن من والى
+			24:00 Binary Serialization and Deserialization | binary التحويل من والى 
+			30:57 Json Serialization and Serialization | json النحويل من والى
+			41:38 JSON and HttpClient | json و httpclient

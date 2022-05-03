@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\bin\Debug\net5.0\CASwitch.exe
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\bin\Debug\net5.0\CASwitch.deps.json
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\bin\Debug\net5.0\CASwitch.runtimeconfig.json
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\bin\Debug\net5.0\CASwitch.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\bin\Debug\net5.0\CASwitch.dll
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\bin\Debug\net5.0\ref\CASwitch.dll
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\bin\Debug\net5.0\CASwitch.pdb
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\obj\Debug\net5.0\CASwitch.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\obj\Debug\net5.0\CASwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\obj\Debug\net5.0\CASwitch.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\obj\Debug\net5.0\CASwitch.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\obj\Debug\net5.0\CASwitch.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\obj\Debug\net5.0\CASwitch.dll
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\obj\Debug\net5.0\ref\CASwitch.dll
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\obj\Debug\net5.0\CASwitch.pdb
+C:\Users\DELL\source\repos\CAExpressions\CASwitch\obj\Debug\net5.0\CASwitch.genruntimeconfig.cache

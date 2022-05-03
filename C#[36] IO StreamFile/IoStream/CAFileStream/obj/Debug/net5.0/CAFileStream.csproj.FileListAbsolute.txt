@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\IoStream\CAFileStream\bin\Debug\net5.0\CAFileStream.exe
+C:\Users\DELL\Desktop\IoStream\CAFileStream\bin\Debug\net5.0\CAFileStream.deps.json
+C:\Users\DELL\Desktop\IoStream\CAFileStream\bin\Debug\net5.0\CAFileStream.runtimeconfig.json
+C:\Users\DELL\Desktop\IoStream\CAFileStream\bin\Debug\net5.0\CAFileStream.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\IoStream\CAFileStream\bin\Debug\net5.0\CAFileStream.dll
+C:\Users\DELL\Desktop\IoStream\CAFileStream\bin\Debug\net5.0\ref\CAFileStream.dll
+C:\Users\DELL\Desktop\IoStream\CAFileStream\bin\Debug\net5.0\CAFileStream.pdb
+C:\Users\DELL\Desktop\IoStream\CAFileStream\obj\Debug\net5.0\CAFileStream.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\IoStream\CAFileStream\obj\Debug\net5.0\CAFileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\IoStream\CAFileStream\obj\Debug\net5.0\CAFileStream.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\IoStream\CAFileStream\obj\Debug\net5.0\CAFileStream.AssemblyInfo.cs
+C:\Users\DELL\Desktop\IoStream\CAFileStream\obj\Debug\net5.0\CAFileStream.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\IoStream\CAFileStream\obj\Debug\net5.0\CAFileStream.dll
+C:\Users\DELL\Desktop\IoStream\CAFileStream\obj\Debug\net5.0\ref\CAFileStream.dll
+C:\Users\DELL\Desktop\IoStream\CAFileStream\obj\Debug\net5.0\CAFileStream.pdb
+C:\Users\DELL\Desktop\IoStream\CAFileStream\obj\Debug\net5.0\CAFileStream.genruntimeconfig.cache

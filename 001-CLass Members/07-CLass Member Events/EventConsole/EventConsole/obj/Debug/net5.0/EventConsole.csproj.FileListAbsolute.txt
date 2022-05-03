@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\EventConsole\EventConsole\bin\Debug\net5.0\EventConsole.exe
+C:\Users\DELL\source\repos\EventConsole\EventConsole\bin\Debug\net5.0\EventConsole.deps.json
+C:\Users\DELL\source\repos\EventConsole\EventConsole\bin\Debug\net5.0\EventConsole.runtimeconfig.json
+C:\Users\DELL\source\repos\EventConsole\EventConsole\bin\Debug\net5.0\EventConsole.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\EventConsole\EventConsole\bin\Debug\net5.0\EventConsole.dll
+C:\Users\DELL\source\repos\EventConsole\EventConsole\bin\Debug\net5.0\ref\EventConsole.dll
+C:\Users\DELL\source\repos\EventConsole\EventConsole\bin\Debug\net5.0\EventConsole.pdb
+C:\Users\DELL\source\repos\EventConsole\EventConsole\obj\Debug\net5.0\EventConsole.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EventConsole\EventConsole\obj\Debug\net5.0\EventConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EventConsole\EventConsole\obj\Debug\net5.0\EventConsole.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EventConsole\EventConsole\obj\Debug\net5.0\EventConsole.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EventConsole\EventConsole\obj\Debug\net5.0\EventConsole.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EventConsole\EventConsole\obj\Debug\net5.0\EventConsole.dll
+C:\Users\DELL\source\repos\EventConsole\EventConsole\obj\Debug\net5.0\ref\EventConsole.dll
+C:\Users\DELL\source\repos\EventConsole\EventConsole\obj\Debug\net5.0\EventConsole.pdb
+C:\Users\DELL\source\repos\EventConsole\EventConsole\obj\Debug\net5.0\EventConsole.genruntimeconfig.cache

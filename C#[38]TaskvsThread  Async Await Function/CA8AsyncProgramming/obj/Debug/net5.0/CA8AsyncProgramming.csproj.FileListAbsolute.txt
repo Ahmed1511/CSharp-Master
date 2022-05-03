@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\bin\Debug\net5.0\CA8AsyncProgramming.exe
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\bin\Debug\net5.0\CA8AsyncProgramming.deps.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\bin\Debug\net5.0\CA8AsyncProgramming.runtimeconfig.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\bin\Debug\net5.0\CA8AsyncProgramming.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\bin\Debug\net5.0\CA8AsyncProgramming.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\bin\Debug\net5.0\ref\CA8AsyncProgramming.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\bin\Debug\net5.0\CA8AsyncProgramming.pdb
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\obj\Debug\net5.0\CA8AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\obj\Debug\net5.0\CA8AsyncProgramming.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\obj\Debug\net5.0\CA8AsyncProgramming.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\obj\Debug\net5.0\CA8AsyncProgramming.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\obj\Debug\net5.0\CA8AsyncProgramming.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\obj\Debug\net5.0\ref\CA8AsyncProgramming.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\obj\Debug\net5.0\CA8AsyncProgramming.pdb
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\obj\Debug\net5.0\CA8AsyncProgramming.genruntimeconfig.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA8AsyncProgramming\obj\Debug\net5.0\CA8AsyncProgramming.csproj.AssemblyReference.cache

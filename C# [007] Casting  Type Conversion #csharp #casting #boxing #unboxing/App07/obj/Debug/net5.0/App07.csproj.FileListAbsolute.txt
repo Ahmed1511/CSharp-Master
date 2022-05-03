@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\App07\App07\bin\Debug\net5.0\App07.exe
+C:\Users\DELL\source\repos\App07\App07\bin\Debug\net5.0\App07.deps.json
+C:\Users\DELL\source\repos\App07\App07\bin\Debug\net5.0\App07.runtimeconfig.json
+C:\Users\DELL\source\repos\App07\App07\bin\Debug\net5.0\App07.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\App07\App07\bin\Debug\net5.0\App07.dll
+C:\Users\DELL\source\repos\App07\App07\bin\Debug\net5.0\ref\App07.dll
+C:\Users\DELL\source\repos\App07\App07\bin\Debug\net5.0\App07.pdb
+C:\Users\DELL\source\repos\App07\App07\obj\Debug\net5.0\App07.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\App07\App07\obj\Debug\net5.0\App07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\App07\App07\obj\Debug\net5.0\App07.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\App07\App07\obj\Debug\net5.0\App07.AssemblyInfo.cs
+C:\Users\DELL\source\repos\App07\App07\obj\Debug\net5.0\App07.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\App07\App07\obj\Debug\net5.0\App07.dll
+C:\Users\DELL\source\repos\App07\App07\obj\Debug\net5.0\ref\App07.dll
+C:\Users\DELL\source\repos\App07\App07\obj\Debug\net5.0\App07.pdb
+C:\Users\DELL\source\repos\App07\App07\obj\Debug\net5.0\App07.genruntimeconfig.cache

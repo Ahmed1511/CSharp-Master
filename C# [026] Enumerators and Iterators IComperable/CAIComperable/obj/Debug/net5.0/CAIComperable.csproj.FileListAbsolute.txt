@@ -1,0 +1,32 @@
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\bin\Debug\net5.0\CAIComperable.exe
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\bin\Debug\net5.0\CAIComperable.deps.json
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\bin\Debug\net5.0\CAIComperable.runtimeconfig.json
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\bin\Debug\net5.0\CAIComperable.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\bin\Debug\net5.0\CAIComperable.dll
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\bin\Debug\net5.0\ref\CAIComperable.dll
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\bin\Debug\net5.0\CAIComperable.pdb
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\obj\Debug\net5.0\CAIComperable.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\obj\Debug\net5.0\CAIComperable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\obj\Debug\net5.0\CAIComperable.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\obj\Debug\net5.0\CAIComperable.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\obj\Debug\net5.0\CAIComperable.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\obj\Debug\net5.0\CAIComperable.dll
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\obj\Debug\net5.0\ref\CAIComperable.dll
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\obj\Debug\net5.0\CAIComperable.pdb
+C:\Users\DELL\source\repos\CAEnumerationIterators\CAIComperable\obj\Debug\net5.0\CAIComperable.genruntimeconfig.cache
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\bin\Debug\net5.0\CAIComperable.exe
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\bin\Debug\net5.0\CAIComperable.deps.json
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\bin\Debug\net5.0\CAIComperable.runtimeconfig.json
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\bin\Debug\net5.0\CAIComperable.runtimeconfig.dev.json
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\bin\Debug\net5.0\CAIComperable.dll
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\bin\Debug\net5.0\ref\CAIComperable.dll
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\bin\Debug\net5.0\CAIComperable.pdb
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\obj\Debug\net5.0\CAIComperable.csproj.AssemblyReference.cache
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\obj\Debug\net5.0\CAIComperable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\obj\Debug\net5.0\CAIComperable.AssemblyInfoInputs.cache
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\obj\Debug\net5.0\CAIComperable.AssemblyInfo.cs
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\obj\Debug\net5.0\CAIComperable.csproj.CoreCompileInputs.cache
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\obj\Debug\net5.0\CAIComperable.dll
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\obj\Debug\net5.0\ref\CAIComperable.dll
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\obj\Debug\net5.0\CAIComperable.pdb
+D:\Code Needed\0000-Mastering C#\C# [026] Enumerators and Iterators IComperable\CAIComperable\obj\Debug\net5.0\CAIComperable.genruntimeconfig.cache

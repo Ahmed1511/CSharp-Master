@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GT8CeAbKkHE9JBr+UiPkP+FX0sLIcfRImZ4UyOAgJjdVkO+fXjKBxe4XOxFMMUmOSigXLp2JtA9Up7eAetB2DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\CASerialization\\CAJsonSerialization\\CAJsonSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

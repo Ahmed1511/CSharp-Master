@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\bin\Debug\net5.0\CAReflectionCheckTheTypeELements.exe
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\bin\Debug\net5.0\CAReflectionCheckTheTypeELements.deps.json
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\bin\Debug\net5.0\CAReflectionCheckTheTypeELements.runtimeconfig.json
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\bin\Debug\net5.0\CAReflectionCheckTheTypeELements.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\bin\Debug\net5.0\CAReflectionCheckTheTypeELements.dll
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\bin\Debug\net5.0\ref\CAReflectionCheckTheTypeELements.dll
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\bin\Debug\net5.0\CAReflectionCheckTheTypeELements.pdb
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\obj\Debug\net5.0\CAReflectionCheckTheTypeELements.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\obj\Debug\net5.0\CAReflectionCheckTheTypeELements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\obj\Debug\net5.0\CAReflectionCheckTheTypeELements.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\obj\Debug\net5.0\CAReflectionCheckTheTypeELements.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\obj\Debug\net5.0\CAReflectionCheckTheTypeELements.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\obj\Debug\net5.0\CAReflectionCheckTheTypeELements.dll
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\obj\Debug\net5.0\ref\CAReflectionCheckTheTypeELements.dll
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\obj\Debug\net5.0\CAReflectionCheckTheTypeELements.pdb
+C:\Users\DELL\source\repos\CAReflection\CAReflectionCheckTheTypeELements\obj\Debug\net5.0\CAReflectionCheckTheTypeELements.genruntimeconfig.cache

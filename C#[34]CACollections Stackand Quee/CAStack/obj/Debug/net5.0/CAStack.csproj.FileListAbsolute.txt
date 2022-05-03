@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\bin\Debug\net5.0\CAStack.exe
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\bin\Debug\net5.0\CAStack.deps.json
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\bin\Debug\net5.0\CAStack.runtimeconfig.json
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\bin\Debug\net5.0\CAStack.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\bin\Debug\net5.0\CAStack.dll
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\bin\Debug\net5.0\ref\CAStack.dll
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\bin\Debug\net5.0\CAStack.pdb
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\obj\Debug\net5.0\CAStack.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\obj\Debug\net5.0\CAStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\obj\Debug\net5.0\CAStack.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\obj\Debug\net5.0\CAStack.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\obj\Debug\net5.0\CAStack.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\obj\Debug\net5.0\CAStack.dll
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\obj\Debug\net5.0\ref\CAStack.dll
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\obj\Debug\net5.0\CAStack.pdb
+C:\Users\DELL\source\repos\CACollectionsStackandQuee\CAStack\obj\Debug\net5.0\CAStack.genruntimeconfig.cache

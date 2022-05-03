@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\CABreak.exe
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\CABreak.deps.json
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\CABreak.runtimeconfig.json
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\CABreak.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\CABreak.dll
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\ref\CABreak.dll
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\bin\Debug\net5.0\CABreak.pdb
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CABreak.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CABreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CABreak.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CABreak.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CABreak.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CABreak.dll
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\ref\CABreak.dll
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CABreak.pdb
+C:\Users\DELL\source\repos\CAJumbStatement\CABreak\obj\Debug\net5.0\CABreak.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\bin\Debug\net5.0\CAinhertance.exe
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\bin\Debug\net5.0\CAinhertance.deps.json
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\bin\Debug\net5.0\CAinhertance.runtimeconfig.json
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\bin\Debug\net5.0\CAinhertance.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\bin\Debug\net5.0\CAinhertance.dll
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\bin\Debug\net5.0\ref\CAinhertance.dll
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\bin\Debug\net5.0\CAinhertance.pdb
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\obj\Debug\net5.0\CAinhertance.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\obj\Debug\net5.0\CAinhertance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\obj\Debug\net5.0\CAinhertance.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\obj\Debug\net5.0\CAinhertance.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\obj\Debug\net5.0\CAinhertance.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\obj\Debug\net5.0\CAinhertance.dll
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\obj\Debug\net5.0\ref\CAinhertance.dll
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\obj\Debug\net5.0\CAinhertance.pdb
+C:\Users\DELL\source\repos\CAinhertance\CAinhertance\obj\Debug\net5.0\CAinhertance.genruntimeconfig.cache

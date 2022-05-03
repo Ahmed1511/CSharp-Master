@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\bin\Debug\net5.0\CAIDesposableDesignPattern.exe
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\bin\Debug\net5.0\CAIDesposableDesignPattern.deps.json
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\bin\Debug\net5.0\CAIDesposableDesignPattern.runtimeconfig.json
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\bin\Debug\net5.0\CAIDesposableDesignPattern.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\bin\Debug\net5.0\CAIDesposableDesignPattern.dll
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\bin\Debug\net5.0\ref\CAIDesposableDesignPattern.dll
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\bin\Debug\net5.0\CAIDesposableDesignPattern.pdb
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\obj\Debug\net5.0\CAIDesposableDesignPattern.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\obj\Debug\net5.0\CAIDesposableDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\obj\Debug\net5.0\CAIDesposableDesignPattern.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\obj\Debug\net5.0\CAIDesposableDesignPattern.AssemblyInfo.cs
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\obj\Debug\net5.0\CAIDesposableDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\obj\Debug\net5.0\CAIDesposableDesignPattern.dll
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\obj\Debug\net5.0\ref\CAIDesposableDesignPattern.dll
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\obj\Debug\net5.0\CAIDesposableDesignPattern.pdb
+C:\Users\DELL\Desktop\IoStream\CAIDesposableDesignPattern\obj\Debug\net5.0\CAIDesposableDesignPattern.genruntimeconfig.cache

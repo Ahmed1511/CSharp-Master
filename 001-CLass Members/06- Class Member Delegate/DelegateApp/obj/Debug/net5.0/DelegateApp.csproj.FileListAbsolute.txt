@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\bin\Debug\net5.0\DelegateApp.exe
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\bin\Debug\net5.0\DelegateApp.deps.json
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\bin\Debug\net5.0\DelegateApp.runtimeconfig.json
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\bin\Debug\net5.0\DelegateApp.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\bin\Debug\net5.0\DelegateApp.dll
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\bin\Debug\net5.0\ref\DelegateApp.dll
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\bin\Debug\net5.0\DelegateApp.pdb
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\obj\Debug\net5.0\DelegateApp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\obj\Debug\net5.0\DelegateApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\obj\Debug\net5.0\DelegateApp.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\obj\Debug\net5.0\DelegateApp.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\obj\Debug\net5.0\DelegateApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\obj\Debug\net5.0\DelegateApp.dll
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\obj\Debug\net5.0\ref\DelegateApp.dll
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\obj\Debug\net5.0\DelegateApp.pdb
+C:\Users\DELL\source\repos\DelegateApp\DelegateApp\obj\Debug\net5.0\DelegateApp.genruntimeconfig.cache

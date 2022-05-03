@@ -1,0 +1,32 @@
+C:\Users\DELL\Desktop\IoStream\CADecorator\bin\Debug\net5.0\CADecorator.exe
+C:\Users\DELL\Desktop\IoStream\CADecorator\bin\Debug\net5.0\CADecorator.deps.json
+C:\Users\DELL\Desktop\IoStream\CADecorator\bin\Debug\net5.0\CADecorator.runtimeconfig.json
+C:\Users\DELL\Desktop\IoStream\CADecorator\bin\Debug\net5.0\CADecorator.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\IoStream\CADecorator\bin\Debug\net5.0\CADecorator.dll
+C:\Users\DELL\Desktop\IoStream\CADecorator\bin\Debug\net5.0\ref\CADecorator.dll
+C:\Users\DELL\Desktop\IoStream\CADecorator\bin\Debug\net5.0\CADecorator.pdb
+C:\Users\DELL\Desktop\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.AssemblyInfo.cs
+C:\Users\DELL\Desktop\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.dll
+C:\Users\DELL\Desktop\IoStream\CADecorator\obj\Debug\net5.0\ref\CADecorator.dll
+C:\Users\DELL\Desktop\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.pdb
+C:\Users\DELL\Desktop\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.genruntimeconfig.cache
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\bin\Debug\net5.0\CADecorator.exe
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\bin\Debug\net5.0\CADecorator.deps.json
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\bin\Debug\net5.0\CADecorator.runtimeconfig.json
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\bin\Debug\net5.0\CADecorator.runtimeconfig.dev.json
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\bin\Debug\net5.0\CADecorator.dll
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\bin\Debug\net5.0\ref\CADecorator.dll
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\bin\Debug\net5.0\CADecorator.pdb
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.csproj.AssemblyReference.cache
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.AssemblyInfoInputs.cache
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.AssemblyInfo.cs
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.csproj.CoreCompileInputs.cache
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.dll
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\obj\Debug\net5.0\ref\CADecorator.dll
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.pdb
+D:\Code Needed\0000-Mastering C#\New folder\IoStream\CADecorator\obj\Debug\net5.0\CADecorator.genruntimeconfig.cache

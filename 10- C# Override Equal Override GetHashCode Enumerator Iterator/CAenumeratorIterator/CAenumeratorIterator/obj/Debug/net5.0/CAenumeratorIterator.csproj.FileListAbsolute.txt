@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\bin\Debug\net5.0\CAenumeratorIterator.exe
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\bin\Debug\net5.0\CAenumeratorIterator.deps.json
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\bin\Debug\net5.0\CAenumeratorIterator.runtimeconfig.json
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\bin\Debug\net5.0\CAenumeratorIterator.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\bin\Debug\net5.0\CAenumeratorIterator.dll
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\bin\Debug\net5.0\ref\CAenumeratorIterator.dll
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\bin\Debug\net5.0\CAenumeratorIterator.pdb
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\obj\Debug\net5.0\CAenumeratorIterator.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\obj\Debug\net5.0\CAenumeratorIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\obj\Debug\net5.0\CAenumeratorIterator.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\obj\Debug\net5.0\CAenumeratorIterator.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\obj\Debug\net5.0\CAenumeratorIterator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\obj\Debug\net5.0\CAenumeratorIterator.dll
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\obj\Debug\net5.0\ref\CAenumeratorIterator.dll
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\obj\Debug\net5.0\CAenumeratorIterator.pdb
+C:\Users\DELL\Desktop\CAenumeratorIterator\CAenumeratorIterator\obj\Debug\net5.0\CAenumeratorIterator.genruntimeconfig.cache

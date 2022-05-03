@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\bin\Debug\net5.0\CA07SyncvsAsync.exe
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\bin\Debug\net5.0\CA07SyncvsAsync.deps.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\bin\Debug\net5.0\CA07SyncvsAsync.runtimeconfig.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\bin\Debug\net5.0\CA07SyncvsAsync.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\bin\Debug\net5.0\CA07SyncvsAsync.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\bin\Debug\net5.0\ref\CA07SyncvsAsync.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\bin\Debug\net5.0\CA07SyncvsAsync.pdb
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\obj\Debug\net5.0\CA07SyncvsAsync.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\obj\Debug\net5.0\CA07SyncvsAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\obj\Debug\net5.0\CA07SyncvsAsync.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\obj\Debug\net5.0\CA07SyncvsAsync.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\obj\Debug\net5.0\CA07SyncvsAsync.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\obj\Debug\net5.0\CA07SyncvsAsync.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\obj\Debug\net5.0\ref\CA07SyncvsAsync.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\obj\Debug\net5.0\CA07SyncvsAsync.pdb
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA07SyncvsAsync\obj\Debug\net5.0\CA07SyncvsAsync.genruntimeconfig.cache

@@ -1,0 +1,39 @@
+C:\Users\DELL\source\repos\Assemblies\Assemblies\bin\Debug\net5.0\Assemblies.exe
+C:\Users\DELL\source\repos\Assemblies\Assemblies\bin\Debug\net5.0\Assemblies.deps.json
+C:\Users\DELL\source\repos\Assemblies\Assemblies\bin\Debug\net5.0\Assemblies.runtimeconfig.json
+C:\Users\DELL\source\repos\Assemblies\Assemblies\bin\Debug\net5.0\Assemblies.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Assemblies\Assemblies\bin\Debug\net5.0\Assemblies.dll
+C:\Users\DELL\source\repos\Assemblies\Assemblies\bin\Debug\net5.0\ref\Assemblies.dll
+C:\Users\DELL\source\repos\Assemblies\Assemblies\bin\Debug\net5.0\Assemblies.pdb
+C:\Users\DELL\source\repos\Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.dll
+C:\Users\DELL\source\repos\Assemblies\Assemblies\obj\Debug\net5.0\ref\Assemblies.dll
+C:\Users\DELL\source\repos\Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.pdb
+C:\Users\DELL\source\repos\Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Assemblies\Assemblies\bin\Debug\net5.0\DemoLib.dll
+C:\Users\DELL\source\repos\Assemblies\Assemblies\bin\Debug\net5.0\DemoLib.pdb
+C:\Users\DELL\source\repos\Assemblies\Assemblies\bin\Debug\net5.0\Data\countries.json
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\bin\Debug\net5.0\Assemblies.exe
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\bin\Debug\net5.0\Data\countries.json
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\bin\Debug\net5.0\Assemblies.deps.json
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\bin\Debug\net5.0\Assemblies.runtimeconfig.json
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\bin\Debug\net5.0\Assemblies.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\bin\Debug\net5.0\Assemblies.dll
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\bin\Debug\net5.0\ref\Assemblies.dll
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\bin\Debug\net5.0\Assemblies.pdb
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\bin\Debug\net5.0\DemoLib.dll
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\bin\Debug\net5.0\DemoLib.pdb
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.csproj.CopyComplete
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.dll
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\obj\Debug\net5.0\ref\Assemblies.dll
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.pdb
+C:\Users\DELL\Desktop\CSharp-Master-main\C# [29] Assemblies\Assemblies\obj\Debug\net5.0\Assemblies.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CAException\CAException\bin\Debug\net5.0\CAException.exe
+C:\Users\DELL\source\repos\CAException\CAException\bin\Debug\net5.0\CAException.deps.json
+C:\Users\DELL\source\repos\CAException\CAException\bin\Debug\net5.0\CAException.runtimeconfig.json
+C:\Users\DELL\source\repos\CAException\CAException\bin\Debug\net5.0\CAException.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CAException\CAException\bin\Debug\net5.0\CAException.dll
+C:\Users\DELL\source\repos\CAException\CAException\bin\Debug\net5.0\ref\CAException.dll
+C:\Users\DELL\source\repos\CAException\CAException\bin\Debug\net5.0\CAException.pdb
+C:\Users\DELL\source\repos\CAException\CAException\obj\Debug\net5.0\CAException.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CAException\CAException\obj\Debug\net5.0\CAException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CAException\CAException\obj\Debug\net5.0\CAException.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CAException\CAException\obj\Debug\net5.0\CAException.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CAException\CAException\obj\Debug\net5.0\CAException.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CAException\CAException\obj\Debug\net5.0\CAException.dll
+C:\Users\DELL\source\repos\CAException\CAException\obj\Debug\net5.0\ref\CAException.dll
+C:\Users\DELL\source\repos\CAException\CAException\obj\Debug\net5.0\CAException.pdb
+C:\Users\DELL\source\repos\CAException\CAException\obj\Debug\net5.0\CAException.genruntimeconfig.cache

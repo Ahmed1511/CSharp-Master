@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\CollectionsApp\CAList\bin\Debug\net5.0\CAList.exe
+C:\Users\DELL\source\repos\CollectionsApp\CAList\bin\Debug\net5.0\CAList.deps.json
+C:\Users\DELL\source\repos\CollectionsApp\CAList\bin\Debug\net5.0\CAList.runtimeconfig.json
+C:\Users\DELL\source\repos\CollectionsApp\CAList\bin\Debug\net5.0\CAList.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CollectionsApp\CAList\bin\Debug\net5.0\CAList.dll
+C:\Users\DELL\source\repos\CollectionsApp\CAList\bin\Debug\net5.0\ref\CAList.dll
+C:\Users\DELL\source\repos\CollectionsApp\CAList\bin\Debug\net5.0\CAList.pdb
+C:\Users\DELL\source\repos\CollectionsApp\CAList\obj\Debug\net5.0\CAList.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\CollectionsApp\CAList\obj\Debug\net5.0\CAList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CollectionsApp\CAList\obj\Debug\net5.0\CAList.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CollectionsApp\CAList\obj\Debug\net5.0\CAList.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CollectionsApp\CAList\obj\Debug\net5.0\CAList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CollectionsApp\CAList\obj\Debug\net5.0\CAList.dll
+C:\Users\DELL\source\repos\CollectionsApp\CAList\obj\Debug\net5.0\ref\CAList.dll
+C:\Users\DELL\source\repos\CollectionsApp\CAList\obj\Debug\net5.0\CAList.pdb
+C:\Users\DELL\source\repos\CollectionsApp\CAList\obj\Debug\net5.0\CAList.genruntimeconfig.cache

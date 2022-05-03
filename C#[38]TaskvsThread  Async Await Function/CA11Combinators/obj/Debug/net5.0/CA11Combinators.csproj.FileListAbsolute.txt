@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\bin\Debug\net5.0\CA11Combinators.exe
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\bin\Debug\net5.0\CA11Combinators.deps.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\bin\Debug\net5.0\CA11Combinators.runtimeconfig.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\bin\Debug\net5.0\CA11Combinators.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\bin\Debug\net5.0\CA11Combinators.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\bin\Debug\net5.0\ref\CA11Combinators.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\bin\Debug\net5.0\CA11Combinators.pdb
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\obj\Debug\net5.0\CA11Combinators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\obj\Debug\net5.0\CA11Combinators.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\obj\Debug\net5.0\CA11Combinators.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\obj\Debug\net5.0\CA11Combinators.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\obj\Debug\net5.0\CA11Combinators.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\obj\Debug\net5.0\ref\CA11Combinators.dll
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\obj\Debug\net5.0\CA11Combinators.pdb
+C:\Users\DELL\source\repos\CA05TaskContinuation\CA11Combinators\obj\Debug\net5.0\CA11Combinators.genruntimeconfig.cache
